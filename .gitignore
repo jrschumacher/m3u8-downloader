@@ -1,4 +1,5 @@
-
+m3u8-downloader
 dist/
+*.exe
 *.mp4
 *.m3u8
